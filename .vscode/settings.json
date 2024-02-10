@@ -1,0 +1,6 @@
+{
+    "explorer.autoReveal": true,
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
